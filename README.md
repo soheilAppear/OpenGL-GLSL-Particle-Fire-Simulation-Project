@@ -1,0 +1,2 @@
+# OpenGL-GLSL-Particle-Fire-Simulation-Project
+In these projects I tried to create several cool things with openGL/GLSL. The tools and source codes for running these codes is based on library that you can find online opengl-examples. Based on those code which belongs to Dr. Scott Kuhl, these codes can be compiled easily on your Linux Machine (Or even Windows Machines). You can install this library from here and see the instructions: https://gitlab.com/kuhl/opengl-examples
